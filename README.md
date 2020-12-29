@@ -31,3 +31,9 @@ d. Handling Rare Categorical Feature
 e. Label encoding for categorical features
 
 f. Feature Scaling
+
+# 3. Feature Selection
+
+a. Using Lasso Regression model to apply penalty to coefficients.
+
+b. selectFromModel object from sklearn, which will select the features which coefficients are non-zero
